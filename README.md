@@ -164,3 +164,25 @@ The twelve Physical and Mental Metaphors (Del Sette et al., 2020) used for pre- 
 4. Daddy is a volcano
 5. Climbers are squirrels
 6. That pupil is a sponge
+
+## C. VR Scenario Screenshots
+
+The eight VR scenarios corresponding to MTT training items. Each scenario translates a visual metaphor into an interactive, game-like quest.
+
+### Scenarios 1–4
+
+![VR scenarios 1-4](from 1 to 4 screenshots vr.png)
+
+1. **Spinning Top = Ballerina** — A child's room with toys on the floor. The participant must find a ballerina among the toys and place her on a shelf-stage framed by a red curtain. Distractor: a ballerina drawing in a book.
+2. **Grandpa = Ancient Tree** — An elderly man's house with a piano. The participant must find the "roots" (a vintage photo) and place them under the "trunk" (a wooden cane). Distractor: a real tree visible outside the window.
+3. **Oasis = Beacon** — An oasis in the desert beside a collapsed man. The participant must fill the "beacon" (an empty bottle) with light (oasis water) and bring it to the "ship in trouble" (the collapsed person). No distractor. (Discrators are to  be intened as litear meanings, not off-topic objects, like those which are presnet in this scene, like a treasure, a book, etc.)
+4. **Angry Person = Bomb** — A crowded bus stop near a park. The participant must defuse the metaphorical "bomb" by offering a flower to the angry person. Distractor: a real bomb.
+
+### Scenarios 5–8
+
+![VR scenarios 5-8](from 4 to 8 screenshots vr.png)
+
+5. **Windows = Eyes** — A summer courtyard in front of a house. The participant must "open someone's eyes" by ringing the doorbell and opening the house's window-"eyes." Distractor: a figure with closed eyes on a bench.
+6. **Xmas Decorations = Jewels** — A Christmas living room with fire and radio music. The participant must "dress" the Christmas tree with jewels (earrings and baubles). No distractor.
+7. **Farmer = Rooster** — A rural setting with a ranch and farm animals. The participant must "feed the rooster," i.e., photograph the vain farmer showing off his muscles. Distractor: a real rooster and grain.
+8. **Bridal Veil = Fog** — A Gothic square with church, gargoyles, boutique, and fog. The participant must dissipate the fog, i.e., cut the veil on a mannequin. Distractor: real fog.
