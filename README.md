@@ -10,7 +10,7 @@
 
 The chatbot backend is a Flask server communicating with GPT-4o via the OpenAI API. Participant responses are evaluated in two distinct phases, each with its own prompt.
 
-### A.1 Similarity Phase (temperature = 0.5)
+### A.1 Similarity Phase (temperature = 0)
 
 **System prompt:**
 
@@ -178,6 +178,14 @@ Each PMM response is scored 0 (incorrect), 1 (partially correct), or 2 (fully co
 | That pupil is a sponge | "The pupil drinks" | 1 | Captures a partial mapping (absorbing liquid); the target property in the pupil–sponge interaction is absorbing knowledge |
 | That pupil is a sponge | "The pupil absorbs knowledge easily, like a sponge absorbs water" | 2 | Correctly identifies the shared property emerging from the interaction between the two domains |
 
+### B.2 Individual-Level PMM Results
+
+The following plots show PMM response quality and completion time at the individual participant level, before and after training.
+
+![PMM qualitative rating for each participant](PMM%20qualitative%20rating%20for%20each%20participant.png)
+
+![PMM time pre and post for each participant](PMM%20time%20(pre%20and%20post%20for%20each%20participant.png)
+
 ---
 
 ## C. VR Scenario Screenshots
@@ -195,7 +203,7 @@ The eight VR scenarios corresponding to MTT training items. Each scenario transl
 
 ### Scenarios 5–8
 
-![VR scenarios 5–8](from%204%20to%208%20screenshots%20vr.png)
+![VR scenarios 5–8](from%205%20to%208%20screenshots%20vr.png)
 
 5. **Windows = Eyes** — A summer courtyard in front of a house. The participant must "open someone's eyes" by ringing the doorbell and opening the house's window-"eyes." *Distractor:* a figure with closed eyes on a bench.
 6. **Xmas Decorations = Jewels** — A Christmas living room with fire and radio music. The participant must "dress" the Christmas tree with jewels (earrings and baubles). *No distractor.*
