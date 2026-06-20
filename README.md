@@ -184,7 +184,7 @@ The following plots show PMM response quality and completion time at the individ
 
 ![PMM qualitative rating for each participant](PMM%20qualitative%20rating%20for%20each%20participant.png)
 
-![PMM time pre and post for each participant](PMM%20time%20(pre%20and%20post%20for%20each%20participant.png)
+![PMM time pre and post for each participant](PMM%20time%20%28pre%20and%20post%20for%20each%20participant.png)
 
 ---
 
